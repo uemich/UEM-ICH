@@ -1,0 +1,6 @@
+fold,train_size,val_size,ICH_train,ICH_val,IPH_train,IPH_val,IVH_train,IVH_val,SDH_train,SDH_val,EDH_train,EDH_val,SAH_train,SAH_val,BleedLocation-Left_train,BleedLocation-Left_val,BleedLocation-Right_train,BleedLocation-Right_val,ChronicBleed_train,ChronicBleed_val,Fracture_train,Fracture_val,CalvarialFracture_train,CalvarialFracture_val,OtherFracture_train,OtherFracture_val,MassEffect_train,MassEffect_val,MidlineShift_train,MidlineShift_val
+0,323,81,146,38,100,24,22,5,35,9,7,2,44,12,95,26,93,23,12,3,24,6,21,6,8,1,92,23,48,12
+1,323,81,147,37,99,25,22,5,35,9,7,2,45,11,96,25,93,23,12,3,24,6,21,6,7,2,92,23,48,12
+2,324,80,148,36,99,25,22,5,36,8,7,2,45,11,97,24,92,24,12,3,24,6,22,5,7,2,92,23,48,12
+3,323,81,147,37,99,25,21,6,35,9,7,2,45,11,97,24,93,23,12,3,24,6,22,5,7,2,92,23,48,12
+4,323,81,148,36,99,25,21,6,35,9,8,1,45,11,99,22,93,23,12,3,24,6,22,5,7,2,92,23,48,12

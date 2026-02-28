@@ -1,0 +1,6 @@
+fold,train_volumes,val_volumes,train_slices,val_slices,train_epidural,train_intraparenchymal,train_intraventricular,train_subarachnoid,train_subdural,val_epidural,val_intraparenchymal,val_intraventricular,val_subarachnoid,val_subdural
+0,3479,870,120443,30134,54,888,594,631,646,13,221,149,157,162
+1,3479,870,120363,30214,54,888,594,629,648,13,221,149,159,160
+2,3479,870,120528,30049,53,885,593,631,647,14,224,150,157,161
+3,3479,870,120351,30226,53,887,595,631,644,14,222,148,157,164
+4,3480,869,120623,29954,54,888,596,630,647,13,221,147,158,161

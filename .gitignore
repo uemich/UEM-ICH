@@ -1,0 +1,35 @@
+# --- Data and Weights (Folders exist, but only README is tracked) ---
+raw_data/*
+!raw_data/README.md
+
+preprocessed_data/*
+!preprocessed_data/README.md
+
+weights/*
+!weights/README.md
+
+# --- File Blocklist (Large Binary Files) ---
+*.pth
+*.pt
+*.ckpt
+*.joblib
+*.npy
+*.npz
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# --- Logs and Results ---
+**/logs/
+**/results/
+*.log
+*.csv
+!evaluation/**/*.csv
+
+# --- Python & IDE Junk ---
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
