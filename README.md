@@ -1,4 +1,4 @@
-# UEM-ICH: Unified, Efficient and Multitasking Framework for Intracranial Hemorrhage Analysis
+# From Specialists to Generalists : A Unified, Efficient, and Multi-Task Framework for Intracranial Hemorrhage Diagnosis
 
 
 A unified multi-task framework for Intracranial Hemorrhage (ICH) analysis, supporting detection, subtype classification, and segmentation from non-contrast CT scans.
